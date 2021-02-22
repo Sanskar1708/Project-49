@@ -1,0 +1,15 @@
+ *{
+    margin: 0;
+    padding: 0;
+    list-style: none;
+    text-decoration: none;
+  }
+
+  .header {
+    padding: 60px;
+    text-align: center;
+    background: #1abc3d;
+    color: #000000;
+    font-size: 30px;
+  }
+  
